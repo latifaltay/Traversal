@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8kJ4a+hmMSRUlMvbEuAHdasNo1DvzZGi3Ufidxu1n2CBUUyRBBZ73fqw3n0npKIL0toCtuGGi8FjTkgLv6RQkg==",
+  "dgSpecHash": "fDVRzLt9OD7ZG1O0ofudhLz1AyAVki+jnEwbOwhTZslVpGrVkF1s2iFpZdd/I/S1IEZ3G6H1ZYOZsKDkxEv9fA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ELEYDEV\\Desktop\\Traversal\\TraversalCoreProject\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\ELEYDEV\\Desktop\\Traversal2\\Traversal-main\\TraversalCoreProject\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
     "C:\\Users\\ELEYDEV\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

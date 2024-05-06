@@ -259,7 +259,11 @@ $.validator.addMethod( "cifES", function( value, element ) {
 			// Odd positions are multiplied first.
 			n *= 2;
 
-			// If the multiplication is bigger than 10 we need to adjust
+			// If the multiplication is 
+			
+			
+			
+			ger than 10 we need to adjust
 			odd_sum += n < 10 ? n : n - 9;
 
 		// Even positions
