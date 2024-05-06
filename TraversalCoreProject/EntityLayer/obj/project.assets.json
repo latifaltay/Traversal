@@ -2019,11 +2019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\Traversal2\\Traversal-main\\TraversalCoreProject\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\ELEYDEV\\Desktop\\Traversal\\TraversalCoreProject\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\Traversal2\\Traversal-main\\TraversalCoreProject\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\ELEYDEV\\Desktop\\Traversal\\TraversalCoreProject\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\ELEYDEV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\Traversal2\\Traversal-main\\TraversalCoreProject\\EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\ELEYDEV\\Desktop\\Traversal\\TraversalCoreProject\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELEYDEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
